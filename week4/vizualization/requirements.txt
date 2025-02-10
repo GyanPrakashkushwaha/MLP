@@ -1,0 +1,10 @@
+pandas
+matplotlib
+dash
+scikit-learn 
+numpy 
+plotly
+dash_bootstrap_components
+seaborn
+
+# pip install -r requirements.txt
